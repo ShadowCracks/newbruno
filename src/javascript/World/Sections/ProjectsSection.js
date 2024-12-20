@@ -70,7 +70,7 @@ export default class ProjectsSection
     setList()
     {
         this.list = [
-            {
+            /*{
                 name: 'Three.js Journey',
                 imageSources:
                 [
@@ -95,7 +95,7 @@ export default class ProjectsSection
                 [
                     { type: 'fwa', x: 3.95, y: 4.15 }
                 ]
-            },
+            },*/
             {
                 name: 'Chartogne Taillet',
                 imageSources:
