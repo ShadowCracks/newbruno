@@ -70,14 +70,14 @@ export default class ProjectsSection
     setList()
     {
         this.list = [
-            /*{
+            {
                 name: 'Three.js Journey',
                 imageSources:
                 [
-                    './models/projects/threejsJourney/slideA.webp',
-                    './models/projects/threejsJourney/slideB.webp',
-                    './models/projects/threejsJourney/slideC.webp',
-                    './models/projects/threejsJourney/slideD.webp'
+                    './models/projects/proj/SlideA.png',
+                    './models/projects/proj/SlideB.png',
+                    './models/projects/proj/SlideC.png',
+                    './models/projects/proj/SlideD.jpeg',
                 ],
                 floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
                 link:
@@ -95,8 +95,8 @@ export default class ProjectsSection
                 [
                     { type: 'fwa', x: 3.95, y: 4.15 }
                 ]
-            },*/
-            {
+            },
+            /*{
                 name: 'Chartogne Taillet',
                 imageSources:
                 [
@@ -385,6 +385,7 @@ export default class ProjectsSection
             //     },
             //     distinctions: []
             // }
+            */
         ]
     }
 
