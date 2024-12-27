@@ -96,6 +96,112 @@ export default class ProjectsSection
                     { type: 'fwa', x: 3.95, y: 4.15 }
                 ]
             },
+            {
+                name: 'zenly',
+                imageSources:
+                [
+                    './models/projects/zenly/SlideA.png',
+                    './models/projects/zenly/SlideB.png',
+                    './models/projects/zenly/SlideC.png',
+                    
+                ],
+                floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
+                link:
+                {
+                    href: 'https://chromewebstore.google.com/detail/text-scrapper/jmckdnpbchopfbejljedacnfggngfopp',
+                    x: - 4.8,
+                    y: - 3,
+                    halfExtents:
+                    {
+                        x: 3.2,
+                        y: 1.5
+                    }
+                },
+                distinctions:
+                [
+                    { type: 'fwa', x: 3.95, y: 4.15 }
+                ]
+            },
+            {
+                name: 'scout',
+                imageSources:
+                [
+                    './models/projects/scout/slideA.png',
+                    './models/projects/scout/slideB.png',
+                    './models/projects/scout/slideC.png',
+                    
+                ],
+                floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
+                link:
+                {
+                    href: 'https://chromewebstore.google.com/detail/workflw-web-scrapper/plflohlbddbcclopdmgkgeahmaokhnln',
+                    x: - 4.8,
+                    y: - 3,
+                    halfExtents:
+                    {
+                        x: 3.2,
+                        y: 1.5
+                    }
+                },
+                distinctions:
+                [
+                    { type: 'fwa', x: 3.95, y: 4.15 }
+                ]
+            },
+            {
+                name: 'reflec',
+                imageSources:
+                [
+                    './models/projects/refletCommunication/slideA.png',
+                    './models/projects/refletCommunication/slideB.png',
+                    './models/projects/refletCommunication/slideC.png',
+                    
+                ],
+                floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
+                link:
+                {
+                    href: 'https://chromewebstore.google.com/detail/easy-email-scrapper/phjgbhdkjbnhnaddndackijhjijjnaca',
+                    x: - 4.8,
+                    y: - 3,
+                    halfExtents:
+                    {
+                        x: 3.2,
+                        y: 1.5
+                    }
+                },
+                distinctions:
+                [
+                    { type: 'fwa', x: 3.95, y: 4.15 }
+                ]
+            },
+
+            {
+                name: 'toomtoom',
+                imageSources:
+                [
+                    './models/projects/orano/slideA.png',
+                    './models/projects/orano/slideB.png',
+                    './models/projects/orano/slideC.png',
+                    
+                ],
+                floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
+                link:
+                {
+                    href: 'https://chromewebstore.google.com/detail/social-media-scrapper-too/fehkebbnpbhmimkchacifhkmphifacog',
+                    x: - 4.8,
+                    y: - 3,
+                    halfExtents:
+                    {
+                        x: 3.2,
+                        y: 1.5
+                    }
+                },
+                distinctions:
+                [
+                    { type: 'fwa', x: 3.95, y: 4.15 }
+                ]
+            },
+
             /*{
                 name: 'Chartogne Taillet',
                 imageSources:
